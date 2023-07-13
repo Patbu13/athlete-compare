@@ -1,3 +1,4 @@
+ - Languages
 HTML CSS
 JavaScript
 DOM & jQuery !!!!
@@ -5,3 +6,8 @@ Python
   Django - framework for web python
   Scrapy - web scraping, data mining
 React - Frontend Framework !!!!
+
+ - Thoughts
+No account creation - could come later but users enter data every time
+Users can select / deselect certain statistics to enter / compare
+How to handle loading large data amounts (pro athlete databases): load each time webpage is loaded? research
