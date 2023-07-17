@@ -1,6 +1,7 @@
  - Languages
 HTML CSS
 JavaScript
+  - C# could be more useful, its easier to use for .NET frameworks and makes it easier to handle large data
 DOM & jQuery !!!!
 Python
   Django - framework for web python
@@ -9,5 +10,6 @@ React - Frontend Framework !!!!
 
  - Thoughts
 No account creation - could come later but users enter data every time
+We could also use web scrapers to auto fill some stats and info, there are a lot of opensource websites where high school stats are
 Users can select / deselect certain statistics to enter / compare
 How to handle loading large data amounts (pro athlete databases): load each time webpage is loaded? research
